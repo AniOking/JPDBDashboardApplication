@@ -2,7 +2,7 @@
 
 ## This project is JPDB Data Dashboard which will help developer/user
 
-### some features of this application are:
+### Some features of this application are:
 
 * Easy Data Search and Navigation
 * Faster CRUD operation
