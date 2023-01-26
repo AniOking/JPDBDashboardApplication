@@ -35,3 +35,10 @@
 * Live working HTML templates.
 * Any software application that needs backend DB.
 
+### Video:
+
+
+### Important Links:
+* Home page: https://login2explore.com
+* Register to use JsonPowerDB: http://api.login2explore.com
+* JsonPowerDB Help: https://login2explore.com/jpdb/docs.html
