@@ -33,4 +33,5 @@
 * Time series/geospatial analytics.
 * Real time application for data analytics.
 * Live working HTML templates.
-* Any software application that needs backend DB. (Dynamic web-apps/Mobile/Desktop Apps
+* Any software application that needs backend DB. (Dynamic web-apps/Mobile/Desktop Apps)
+
