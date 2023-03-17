@@ -1,6 +1,6 @@
-# JPDB Data Dashboard Application
+# Data Dashboard Application
 
-## This project is JPDB Data Dashboard which will help developer/user
+## This project is Data Dashboard which will help developer/user
 
 ### Some features of this application are:
 
