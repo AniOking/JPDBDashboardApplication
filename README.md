@@ -1,6 +1,6 @@
 # Data Dashboard Application
 
-## This project is Data Dashboard which will help developer/user
+## This project is the data dashboard which will help HR Department to manage data.
 
 ### Some features of this application are:
 
