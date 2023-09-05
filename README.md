@@ -19,7 +19,3 @@
 * A single instance - Million Indexes
 * Inbuilt support for querying multiple databases
 * Serverside Native NoSQL - best performance
-
-### Video:
-
-* Video Demonstration Link: https://drive.google.com/file/d/1L7jLtHy93-bt4AT4v04JCiu2HdRDoLYf/view?usp=sharing
